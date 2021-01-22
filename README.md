@@ -23,3 +23,5 @@ Si cancelaste el cambio automáticamente por accidente o intencionadamente, debe
 Si no aparece el idioma español, asegúrate de que el mod esté activado.
 
 ### Todo el mundo puede participar en el proyecto en GitHub.
+
+- policiadelamor
