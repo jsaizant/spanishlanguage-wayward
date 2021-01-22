@@ -9,7 +9,7 @@ Go to the "Mods" tab and check the box next to the mod, then agree with the lang
 If you refused to change automatically by accident or intentionally, then to change the language go to the settings and turn on the Spanish language manually.
 If there is no Spanish language make sure that you turned on the mod.
 
-Everyone can help the project on GitHub.
+### Everyone can help the project on GitHub.
 
 # Traducción al español para la versión 2.9.6
 Este mod añade el español al juego.
