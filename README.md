@@ -1,5 +1,5 @@
 # Note for translators
-The main file is lang/spanish.json
+The main file is lang/spanish.json. You can edit it directly in GitHub or download it, edit it with your tool, and commit the changes on the original.
 
 If you're going to tranlsate: use TB_spanishmod.xlsx and TM_spanishmod.tmx to maintain consistency.
 
