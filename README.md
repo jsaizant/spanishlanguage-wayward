@@ -29,6 +29,6 @@ Ve al apartado de "Mods" y marca la casilla al lado del mod, acepta el cambio de
 Si cancelaste el cambio automáticamente por accidente o intencionadamente, debes ir a los ajustes y activar el idioma español manualmente.
 Si no aparece el idioma español, asegúrate de que el mod esté activado.
 
-### Todo el mundo puede participar en el proyecto en GitHub.
+### Todo el mundo puede contribuir al proyecto en GitHub.
 
 - policiadelamor
