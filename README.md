@@ -1,3 +1,8 @@
+# Note for translators
+The main file is lang/spanish.json
+If you're going to tranlsate: use TB_spanishmod.xlsx and TM_spanishmod.tmx to maintain consistency.
+If you're going to check and change any string: justify your decision and apply it in every case.
+
 # Spanish Translation for version 2.9.6
 Mod adds Spanish to the game!
 Includes the translation of starting quests.
